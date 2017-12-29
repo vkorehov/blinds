@@ -1,0 +1,21 @@
+<resources>
+    <!-- Strings related to Settings -->
+    <string name="show_settings">Open Bluetooth Settings...</string>
+
+    <string name="pref_blinds1_title">Blinds1</string>
+    <string-array name="pref_blinds1_titles">
+        <item>100%%</item>
+        <item>75%%</item>
+        <item>50%%</item>
+        <item>25%%</item>
+        <item>0%%</item>
+    </string-array>
+    <string-array name="pref_blinds1_values">
+        <item>100</item>
+        <item>75</item>
+        <item>50</item>
+        <item>25</item>
+        <item>0</item>
+    </string-array>
+    <string-array name="multi_select_list_preference_default_value" />
+</resources>
